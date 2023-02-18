@@ -1,0 +1,10 @@
+.blogTextArea {
+    border: 1px solid #ededed;
+    border-radius: 6px;
+    margin-bottom: 30px;
+    padding: 15px;
+}
+
+.blogTextArea h3 {
+    font-size: 20px;
+}

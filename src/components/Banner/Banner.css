@@ -1,0 +1,14 @@
+.carousel-caption Button {
+    background-color: #7952b3;
+    border: 1px solid #7952b3;
+    border-radius: 5px;
+    padding: 6px 24px;
+    color: white;
+    transition: .5s;
+    margin-bottom: 60px;
+}
+
+.carousel-caption Button:hover {
+    border: 1px solid white;
+    background-color: transparent;
+}

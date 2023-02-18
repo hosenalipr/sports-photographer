@@ -1,0 +1,27 @@
+.singele-service {
+    border: 1px solid #ededed;
+    border-radius: 5px;
+    margin-bottom: 60px;
+}
+
+.text-area {
+    padding: 14px;
+}
+
+.text-area h3 {
+    font-size: 24px;
+}
+
+.text-area Button {
+    background-color: #7952b3;
+    border: 1px solid #7952b3;
+    border-radius: 5px;
+    padding: 6px 24px;
+    color: white;
+    transition: .5s;
+}
+
+.text-area Button:hover {
+    color: #7952b3;
+    background-color: transparent;
+}

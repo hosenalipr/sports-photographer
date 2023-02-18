@@ -1,0 +1,17 @@
+.header .navbar-nav a {
+    margin-left: 15px;
+    color: white;
+}
+
+.header .navbar-nav a:last-child {
+    background-color: #7952b3;
+    border: 1px solid #7952b3;
+    border-radius: 5px;
+    padding: 6px 38px;
+
+}
+
+.header .navbar-nav a:last-child:hover {
+    background-color: transparent;
+    color: #7952b3;
+}
